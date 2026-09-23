@@ -1,6 +1,0 @@
-{
-	"nodes":[
-		{"id":"c9ae433e8a9d10d3","x":214,"y":-373,"width":250,"height":60,"type":"text","text":"provault backup: {{date}}"}
-	],
-	"edges":[]
-}
