@@ -9,12 +9,12 @@ Ebben a dokumentumban Mezei Luca személyes hátterével kapcsolatos válaszai k
 
 ## 1.1 — Alapadatok
 
-| Kérdés                                       | Válasz |
-| -------------------------------------------- | ------ |
-| Születési év                                  |        |
-| Származási hely (település / kerület)          |        |
-| Családi állapot (egyedülálló / párkapcsolat / házas) | |
-| Gyermekek száma és életkora                    |        |
+| Kérdés                                               | Válasz |
+| ---------------------------------------------------- | ------ |
+| Születési év                                         | 2004   |
+| Származási hely (település / kerület)                |        |
+| Családi állapot (egyedülálló / párkapcsolat / házas) |        |
+| Gyermekek száma és életkora                          |        |
 
 ---
 
