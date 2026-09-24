@@ -2,7 +2,7 @@
 
 **Státusz:** ⬜ Nincs kitöltve  
 **Kitöltendő:** Az interjúkészítő által, az interjú után  
-**Interjú alanya:** Dombi Miksa
+**Interjú alanya:** Dombi Miksa Gábriel
 
 ---
 
