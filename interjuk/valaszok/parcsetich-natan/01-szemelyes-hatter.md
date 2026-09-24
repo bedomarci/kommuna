@@ -8,7 +8,7 @@
 
 ## Alapadatok
 
-- Születési év és hely:
+- Születési év és hely: 2001
 - Családi állapot:
 - Végzettség(ek):
 - Foglalkozás(ok) / szakmai múlt:
