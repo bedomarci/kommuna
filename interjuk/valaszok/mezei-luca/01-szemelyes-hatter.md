@@ -9,12 +9,12 @@ Ebben a dokumentumban Mezei Luca személyes hátterével kapcsolatos válaszai k
 
 ## 1.1 — Alapadatok
 
-| Kérdés                                               | Válasz |
-| ---------------------------------------------------- | ------ |
-| Születési év                                         | 2004   |
-| Származási hely (település / kerület)                |        |
-| Családi állapot (egyedülálló / párkapcsolat / házas) |        |
-| Gyermekek száma és életkora                          |        |
+| Kérdés                                               | Válasz       |
+| ---------------------------------------------------- | ------------ |
+| Születési év                                         | 2004         |
+| Származási hely (település / kerület)                | Budapest     |
+| Családi állapot (egyedülálló / párkapcsolat / házas) | Párkapcsolat |
+| Gyermekek száma és életkora                          |              |
 
 ---
 
@@ -42,8 +42,8 @@ Ebben a dokumentumban Mezei Luca személyes hátterével kapcsolatos válaszai k
 
 ## 1.4 — Korábbi lakhatási formák
 
-| Kérdés                                       | Válasz |
-| -------------------------------------------- | ------ |
-| Milyen lakhatási formákban éltél eddig?       |        |
-| Volt-e tapasztalatod közösségi / osztott lakhatással? | |
-| Voltak-e konfliktusaid lakótársi helyzetekben? |        |
+| Kérdés                                                | Válasz |
+| ----------------------------------------------------- | ------ |
+| Milyen lakhatási formákban éltél eddig?               |        |
+| Volt-e tapasztalatod közösségi / osztott lakhatással? |        |
+| Voltak-e konfliktusaid lakótársi helyzetekben?        |        |
