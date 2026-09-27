@@ -14,18 +14,18 @@ Ebben a dokumentumban Mezei Luca személyes hátterével kapcsolatos válaszai k
 | Születési év                                         | 2004         |
 | Származási hely (település / kerület)                | Budapest     |
 | Családi állapot (egyedülálló / párkapcsolat / házas) | Párkapcsolat |
-| Gyermekek száma és életkora                          |              |
+| Gyermekek száma és életkora                          | Nincsenek    |
 
 ---
 
 ## 1.2 — Gyermekkor és családi háttér
 
-| Kérdés                                       | Válasz |
-| -------------------------------------------- | ------ |
-| Milyen családban nőttél fel? (szülők, testvérek) | |
-| Hol éltél gyermekkorodban?                    |        |
-| Milyen értékeket hozol otthonról?             |        |
-| Volt-e olyan élményed, ami meghatározta a közösséghez való viszonyodat? | |
+| Kérdés                                                                  | Válasz                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| ----------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Milyen családban nőttél fel? (szülők, testvérek)                        | Anyukámmal és Apukámmal nőttem fel, de hamar, kb 10 éves koromban elválltak és onnantól anyukám nevelt. Nem voltak gyerekként testvérem, 18 éves koromban született a húgom aki féltestvérem apukám oldaláról.                                                                                                                                                                                                                                                                                                                                                                                                             |
+| Hol éltél gyermekkorodban?                                              | 7 éves koromig Brüsszelben és Budapesten. Folyamatosan ingáztunk, de jártam Budapesten oviba, ugyanakkor nagyon sok időt töltöttünk Brüsszelben is. Az iskolát már Budapesten kezdtem el. 10 éves koromban pedig egy fél évet töltöttünk Rómában, majd visszakltöztünk Budapestre.                                                                                                                                                                                                                                                                                                                                         |
+| Milyen értékeket hozol otthonról?                                       | Azthiszem ami az egész családomban közös értékként mindig is jelen volt, az az hogy a legnagyobb érték a tudás és a tanulás. A műveltség, intelligencia és ennek az élet minden területén való alkalmazása a családom minden részének rendkívül fontos volt. Részletesebben kezdjük a legközelebbi emberrel hozzám anyukámmal. Anya mindig empátiára és elfogadásra tanított. Nagyon fontos volt neki a munkája és az abban való kiteljesedés és mindent az életében felelősségtudatosan és rendkívül kötelesség tudóan végzett el. A család és annak összetartás, hogy lehessen a családra számítani anyukámtól érkezik.  |
+| Volt-e olyan élményed, ami meghatározta a közösséghez való viszonyodat? | Én úgy nőttem fel, hogy Anyával mindig mentünk valahova, valakikhez.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
 
 ---
 
