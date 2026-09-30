@@ -8,10 +8,10 @@
 
 ## Alapadatok
 
-- Születési év és hely: 2001
-- Családi állapot:
-- Végzettség(ek):
-- Foglalkozás(ok) / szakmai múlt:
+- Születési év és hely: 2001 Budapest
+- Családi állapot: Eljegyezve
+- Végzettség(ek): Érettségi, OKJ-s Pénzügyi és Számviteli ügyintéző, Vagyonőr
+- Foglalkozás(ok) / szakmai múlt: Fegyveres Biztonsági Tiszt
 
 ## Származás és gyökerek
 
