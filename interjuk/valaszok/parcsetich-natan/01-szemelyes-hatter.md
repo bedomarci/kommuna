@@ -15,7 +15,7 @@
 
 ## Származás és gyökerek
 
-- Hol nőtt fel, milyen környezetben?
+- Hol nőtt fel, milyen környezetben? Budapesten a 11. kerületben nőttem fel, ahol nagyszüleim neveltek az ő gyámságuk alatt. 
 - Családi háttér rövid bemutatása:
 - Meghatározó gyermekkori élmények:
 
