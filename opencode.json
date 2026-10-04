@@ -1,0 +1,15 @@
+{
+  "$schema": "https://opencode.ai/config.json",
+  "permissions": [
+    {
+      "action": "read",
+      "resource": "session/**",
+      "effect": "deny"
+    },
+    {
+      "action": "grep",
+      "resource": "session/**",
+      "effect": "deny"
+    }
+  ]
+}

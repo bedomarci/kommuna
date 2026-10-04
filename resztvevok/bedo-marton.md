@@ -6,14 +6,14 @@
 
 ## Alapadatok
 
-| Mező | Érték |
-|------|-------|
-| Teljes név | Bedő Márton |
-| Születési év | *(töltsd ki)* |
-| Foglalkozás | *(töltsd ki)* |
-| Munkahely | *(töltsd ki)* |
-| Végzettség | *(töltsd ki)* |
-| Mozgalmi háttér | Hasomer Hatzair — *(mióta? milyen szerepek?) * |
+| Mező            | Érték                                                                           |
+| --------------- | ------------------------------------------------------------------------------- |
+| Teljes név      | Bedő Márton                                                                     |
+| Születési év    | 1991-05-12 Budapest                                                             |
+| Foglalkozás     | Sáliáh (szervezeti titkár) és Hárdverfejlesztő                                  |
+| Munkahely       | Hasomer Hacair és egyéni vállalkozó                                             |
+| Végzettség      | Mérnök Informatikus BSc                                                         |
+| Mozgalmi háttér | Hasomer Hatzair — 2006 óta, madrih (5 év), ros ken (2 év), szünet, sáliáh (5év) |
 
 ---
 
