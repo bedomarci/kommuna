@@ -8,14 +8,14 @@
 
 ## Alapadatok
 
-- Születési év és hely:
-- Családi állapot:
-- Végzettség(ek):
-- Foglalkozás(ok) / szakmai múlt:
+- Születési év és hely: 2001 Budapest
+- Családi állapot: Eljegyezve
+- Végzettség(ek): Érettségi, OKJ-s Pénzügyi és Számviteli ügyintéző, Vagyonőr
+- Foglalkozás(ok) / szakmai múlt: Fegyveres Biztonsági Tiszt
 
 ## Származás és gyökerek
 
-- Hol nőtt fel, milyen környezetben?
+- Hol nőtt fel, milyen környezetben? Budapesten a 11. kerületben nőttem fel, ahol nagyszüleim neveltek az ő gyámságuk alatt. 
 - Családi háttér rövid bemutatása:
 - Meghatározó gyermekkori élmények:
 
