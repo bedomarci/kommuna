@@ -12,7 +12,7 @@ az érintett személy.
 
 ## Név, életkor, születési hely
 
-<!-- Írd ide a válaszokat -->
+Dombi Miksa Gábriel, 2000.05.22. Budapest
 
 ## Családi háttér, gyermekkor, szülők foglalkozása
 
