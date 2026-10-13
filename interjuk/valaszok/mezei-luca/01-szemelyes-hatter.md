@@ -1,49 +1,90 @@
-# Mezei Luca — Személyes háttér ⬜
+# 01 — Személyes háttér
 
-> **Státusz:** ⬜ Nincs kitöltve  
-> **Megjegyzés:** Az alábbi mezőket a *kérdezőbiztos* tölti ki az interjú után — **nem** az interjúalany.
-
-Ebben a dokumentumban Mezei Luca személyes hátterével kapcsolatos válaszai kerülnek rögzítésre. A kérdések a gyermekkori élményekre, családi mintákra és az eddigi életút meghatározó fordulópontjaira vonatkoznak.
+> **Időtartam:** kb. 1.5–2 óra
+> **Cél:** Megérteni, honnan jött a tag, milyen élmények, tapasztalatok és kapcsolatok formálták. Ez az interjú a "honnan jöttél" kérdésre ad választ.
 
 ---
 
-## 1.1 — Alapadatok
+## 1. Gyerekkor és család
 
-| Kérdés                                               | Válasz       |
-| ---------------------------------------------------- | ------------ |
-| Születési év                                         | 2004         |
-| Származási hely (település / kerület)                | Budapest     |
-| Családi állapot (egyedülálló / párkapcsolat / házas) | Párkapcsolat |
-| Gyermekek száma és életkora                          | Nincsenek    |
-
----
-
-## 1.2 — Gyermekkor és családi háttér
-
-| Kérdés                                                                  | Válasz                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
-| ----------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Milyen családban nőttél fel? (szülők, testvérek)                        | Anyukámmal és Apukámmal nőttem fel, de hamar, kb 10 éves koromban elválltak és onnantól anyukám nevelt. Nem voltak gyerekként testvérem, 18 éves koromban született a húgom aki féltestvérem apukám oldaláról.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
-| Hol éltél gyermekkorodban?                                              | 7 éves koromig Brüsszelben és Budapesten. Folyamatosan ingáztunk, de jártam Budapesten oviba, ugyanakkor nagyon sok időt töltöttünk Brüsszelben is. Az iskolát már Budapesten kezdtem el. Anyukámmal a Bakáts téren laktunk a 9. kerületben.  10 éves koromban pedig egy fél évet töltöttünk Rómában, majd visszakltöztünk Budapestre a Bakáts térre.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
-| Milyen értékeket hozol otthonról?                                       | Azthiszem ami az egész családomban közös értékként mindig is jelen volt, az az hogy a legnagyobb érték a tudás és a tanulás. A műveltség, intelligencia és ennek az élet minden területén való alkalmazása a családom minden részének rendkívül fontos volt. Részletesebben kezdjük a legközelebbi emberrel hozzám anyukámmal. Anya mindig empátiára és elfogadásra tanított. Nagyon fontos volt neki a munkája és az abban való kiteljesedés és mindent az életében felelősségtudatosan és rendkívül kötelesség tudóan végzett el. A család és annak összetartás, hogy lehessen a családra számítani anyukámtól érkezik. A nagymamámnak a legfontosabb dolog a világon a szeretet és a gondoskodás volt. Bármikor lehetett tőle segítséget kérni. Kötelesség és felelősségtudatra nevelt, valamint megtanította nekem a rendszeretetet és a precizitást. Apukám mindig a tudást emelte ki mint kiemelkedő érték az életében. Nagyon fontos volt neki, a folyamatos olvasás, azért hogy művelt és tájékozott legyek, és hogy tudjak kritikusan gondolkodni a világról. Ismeretek történelemből, vallásból, gazdaságból és kultúrából elvárt volt tőle.                                                                                                                                                                                                                                                               |
-| Volt-e olyan élményed, ami meghatározta a közösséghez való viszonyodat? | Én úgy nőttem fel, hogy Anyával mindig mentünk valahova, valakikhez. Unokatestvérekhez, barátokhoz, ovistársakhoz. Ha nem valakinél voltunk, akkor mások töltöttek nálunk időt. Anyukámnak elég stabil, bensőséges, sokszínű és kiterjedt baráti társasága van, nem csak egy hanem több is. Nem is biztos, hogy barátoknak nevezném őket, mert ennél sokkal mélyebb az elköteleződésük szintje. Felelősséget vállalnak egymásért, együtt szervezik az életüket, és ezt gyerekkoromban aktívan tapasztaltam. Volt, hogy anykám barátai jött értünk gyerekekért az oviba, vagy vitt minket tovább sportolni és játszani. Bármilyen nehézsünk vagy kihívásunk volt abba segítettek és nem kellett egyedül megkűzdeni vele.  Ezek az élmények formálták az elvárásaimat egy közösségtől és a definíciómat a jó közösségről. Így fogalmazódott meg bennem, hogy egy jó közösségben nem kell egyedül megkűzdenem a nehézségeimmel, és az örömömet is van kivel megosztanom. Az, hogy gyerekkoromban folyamatosan emberek és nevetés vett körül, emiatt egyértelművé vált nekem, hogy a saját gyerekeimnek is ezt szeretném. Később 16 évesen amikor először voltam Someres közösségben a Kesztölci madrih képzésen, azonnal visszatért az az érzés amit anyukámmal is sokszor tapasztaltam. A közös étkezések, viták, közös szervezés ebben a közösségben természetes része volt az életnek és ez azonnal bevonzott engem. |
+- Hol nőttél fel? (város, kerület, falu — ha több helyen, sorold fel)
+- Milyen volt a gyerekkorod? Mi jut róla először eszedbe?
+- Kik neveltek? (szülők, nagyszülők, testvérek — kik laktak veletek?)
+- Milyen a kapcsolatod a szüleiddel most?
+- Vannak testvéreid? Hány évesek? Milyen a kapcsolatod velük?
+- Mi volt a családod anyagi helyzete gyerekkorodban? (szűkös, átlagos, kényelmes, gazdag?)
+- Milyen értékeket kaptál otthonról? Mit tartott fontosnak a családod?
+- Volt-e olyan családi hagyomány, rituálé, ami különösen meghatározó volt?
+- Ha egy dolgot vihetnél tovább a gyerekkorodból a kommuna életébe, mi lenne az?
+- Ha egy dolgot biztosan NEM vinnél tovább, mi lenne az?
 
 ---
 
-## 1.3 — Iskolai végzettség és szakmai út
+## 2. Iskola és tanulmányok
 
-| Kérdés                                  | Válasz                                  |
-| --------------------------------------- | --------------------------------------- |
-| Legmagasabb iskolai végzettség          | Érettségi                               |
-| Szakmai terület / foglalkozás           | Közgazdaságtan                          |
-| Jelenlegi munkahely és munkakör         | Hasomer Hacair Forrásteremtési referens |
-| Korábbi, releváns szakmai tapasztalatok | -                                       |
+- Hova jártál általánosba? Milyen élmény volt?
+- Hova jártál középiskolába? Milyen emlékeid vannak?
+- Mit tanultál tovább? (egyetem, OKJ, szakma?)
+- Mi volt a kedvenc tantárgyad / területed? Miért?
+- Mi volt a legnehezebb időszak az iskolában?
+- Volt-e olyan tanár vagy mentor, aki különösen nagy hatással volt rád?
+- Tervezel-e még tanulni a jövőben? Ha igen, mit?
 
 ---
 
-## 1.4 — Korábbi lakhatási formák
+## 3. Mozgalmi háttér
 
-| Kérdés                                                | Válasz                                     |
-| ----------------------------------------------------- | ------------------------------------------ |
-| Milyen lakhatási formákban éltél eddig?               | Eddig csak anyukámmal laktam kettesben.    |
-| Volt-e tapasztalatod közösségi / osztott lakhatással? | Nem                                        |
-| Voltak-e konfliktusaid lakótársi helyzetekben?        | Anyukámmal nem nagyon voltak konfliktusaim |
+- Hogyan kerültél a Hasomer Hatzairba? Hány éves voltál?
+- Ki vitt el először? Mi volt az első élményed?
+- Milyen szerepeket töltöttél be a mozgalomban? (chanich, madrich, koordinátor, táborvezető, stb.)
+- Melyik volt a legmeghatározóbb mozgalmi élményed?
+- Voltál-e sábachon, táborban, szemináriumon külföldön? (Izrael, Európa, máshol?)
+- Mi az, amit a mozgalom adott neked, amit máshol nem kaptál volna meg?
+- Milyen a viszonyod most a mozgalommal? Aktív vagy? Mennyire?
+- Ha a mozgalom egy értéket képviselne számodra, mi lenne az?
+
+---
+
+## 4. Barátságok és közösségek
+
+- Kik a legrégebbi barátaid? Honnan ismeritek egymást?
+- Milyen közösségekhez tartoztál / tartozol a mozgalmon kívül? (sport, művészet, hobbi, vallás)
+- Hogyan barátkozol? Könnyen nyitsz új emberek felé? Vagy inkább lassan, mélyen?
+- Volt-e olyan barátságod, ami véget ért, és amit máig sajnálsz?
+- Hogyan választod ki, hogy kiben bízol meg?
+
+---
+
+## 5. Párkapcsolatok és családalapítás
+
+- Milyen párkapcsolataid voltak? (nem kell részletezni, inkább a mintázatok érdekesek)
+- Jelenleg van-e párkapcsolatod? Ha igen, hogyan kapcsolódik a kommuna tervhez?
+- Szeretnél-e házasodni a jövőben? Ha igen, milyen keretek között? (polgári, vallási, nem fontos?)
+- Szeretnél-e gyereket? Ha igen, hányat és kb. mikor?
+- Ha lennének gyerekek, hogyan képzeled el a nevelésüket egy kommunában? (közösen? egyéni családi keretek között? vegyesen?)
+
+---
+
+## 6. Felnőtté válás — fordulópontok
+
+- Mi volt az a pillanat, amikor először érezted magad "felnőttnek"?
+- Melyik életeseményed volt a legnagyobb fordulópont? (költözés, munka, kapcsolat, veszteség?)
+- Mi az, amit másképp csinálnál, ha újrakezdhetnéd az utolsó 5 évet?
+- Mire vagy a legbüszkébb az életedben eddig?
+- Mi volt a legnagyobb kudarcod, és mit tanultál belőle?
+
+---
+
+## 7. Identitás és önkép
+
+- Ha három szóval kellene jellemezned magad, mi lenne az a három szó?
+- Mi az, amit mások gyakran félreértenek benned?
+- Milyen identitásaid vannak, amik fontosak neked? (vallási, nemzeti, etnikai, szexuális, politikai, szakmai?)
+- Van-e ezek között olyan, amit különösen fontosnak tartasz, hogy a kommuna tiszteletben tartson és támogasson?
+
+---
+
+## 8. Szabad gondolatok
+
+- Van még bármi, amit el szeretnél mondani a hátteredről, és amire nem kérdeztem rá?
+- Hogy érezted magad az interjú alatt?
